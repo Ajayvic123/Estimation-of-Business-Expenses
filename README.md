@@ -13,5 +13,5 @@ https://public.tableau.com/views/EstimationofBusinessexpenses/Story1?:language=e
 Story 2
 https://public.tableau.com/views/Ajay_16968417919210/Story2?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Video Demo Linl
+Video Demo Link
 https://drive.google.com/file/d/1B690efkh8HZFxNDFAuNzbYR5hKuPzRBx/view?usp=sharing
